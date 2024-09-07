@@ -20,10 +20,10 @@
 
 ### Целевая аудитория
 
-Согласно информации с [hi-tech.mail.ru](https://hi-tech.mail.ru/news/102223-raskryit-obem-polzovatelskih-dannyih-v-oblake-mailru/), [similarweb](https://www.similarweb.com/ru/website/cloud.mail.ru/#overview):
+Согласно информации с [hi-tech.mail.ru](https://hi-tech.mail.ru/news/102223-raskryit-obem-polzovatelskih-dannyih-v-oblake-mailru/), [hypestat](https://hypestat.com/info/cloud.mail.ru):
 
-- 11 565 250 активных пользователей в месяц
-- 4 625 700 активных пользователей в день
+- 1 387 710 124 активных пользователей в месяц
+- 45 799 014 активных пользователей в день
 - В 2023 году общий объем хранилища — более 600 петабайт данных
 - За 2023 год пользователи в общей сложности загрузили более 30 млрд различных файлов
 - Самая многочисленная возрастная группа посетителей: 25 - 34 лет
