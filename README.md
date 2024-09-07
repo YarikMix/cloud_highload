@@ -20,7 +20,7 @@
 
 ### Целевая аудитория
 
-Согласно информации с [hi-tech.mail.ru](https://hi-tech.mail.ru/news/102223-raskryit-obem-polzovatelskih-dannyih-v-oblake-mailru/), [hypestat](https://hypestat.com/info/cloud.mail.ru):
+Согласно информации с [hi-tech.mail.ru](https://hi-tech.mail.ru/news/102223-raskryit-obem-polzovatelskih-dannyih-v-oblake-mailru/), [similarweb](https://www.similarweb.com/ru/website/cloud.mail.ru/#overview):
 
 - 1 387 710 124 посещений в месяц
 - 4 625 700 активных пользователей в день
