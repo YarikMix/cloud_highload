@@ -10,6 +10,7 @@
 
 - ### [1. Тема, целевая аудитория и функционал](#1_part)
 - ### [2. Расчет нагрузки](#2_part)
+- ### [Используемые источники](#0_part)
 
 ---
 
@@ -194,7 +195,7 @@ DAU = 4.625 M
 | Пиковый RPS              | 384_500      |
 
 
-## Используемые источники
+## Используемые источники <a name="0_part"></a>
 
 * https://hi-tech.mail.ru/news/102223-raskryit-obem-polzovatelskih-dannyih-v-oblake-mailru/
 * https://www.similarweb.com/ru/website/cloud.mail.ru/
