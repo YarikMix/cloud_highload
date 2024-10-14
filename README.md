@@ -378,7 +378,6 @@ cloud.imgsmail.ru — Сервис доставки медиа-контента.
 * user: hash по user_id
 * file: hash по file_id
 * folder: hash по folder_id
-* public: hash по public_id
 
 ### Хранение сессий пользователей
 
