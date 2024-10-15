@@ -373,9 +373,7 @@ cloud.imgsmail.ru — Сервис доставки медиа-контента.
 
 Для избежания лишних join'ов денормализуем схему данных
 
-Во-первых, перенесем поля editable, public_url, expires из таблицы public в таблицы file и folder
-
-Во-вторых, // TODO: таблица shared -> JSON
+Перенесем поля editable, public_url и expires из таблицы public в таблицы file и folder
 
 #### Хранение данных
 
