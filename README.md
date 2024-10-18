@@ -381,9 +381,19 @@ cloud.imgsmail.ru — Сервис доставки медиа-контента.
 
 #### Индексы
 
-* user: hash по user_id
-* file: hash по file_id
-* folder: hash по folder_id
+Таблица user
+* user_id: hash
+
+Таблица folder
+* folder_id: hash
+* parent: hash
+* name: B-tree
+* created: B-tree
+
+Таблица file
+* file_id: hash
+* parent: hash
+* created: B-tree
 
 ### Хранение сессий пользователей
 
