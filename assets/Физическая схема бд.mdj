@@ -429,7 +429,7 @@
 									"font": "Arial;13;1",
 									"left": 792,
 									"top": 293,
-									"width": 264.1015625,
+									"width": 208,
 									"height": 13,
 									"text": "folder"
 								},
@@ -455,7 +455,7 @@
 											"font": "Arial;13;0",
 											"left": 797,
 											"top": 316,
-											"width": 254.1015625,
+											"width": 198,
 											"height": 13
 										},
 										{
@@ -470,7 +470,7 @@
 											"font": "Arial;13;0",
 											"left": 797,
 											"top": 331,
-											"width": 254.1015625,
+											"width": 198,
 											"height": 13
 										},
 										{
@@ -485,7 +485,7 @@
 											"font": "Arial;13;0",
 											"left": 797,
 											"top": 346,
-											"width": 254.1015625,
+											"width": 198,
 											"height": 13
 										},
 										{
@@ -500,7 +500,7 @@
 											"font": "Arial;13;0",
 											"left": 797,
 											"top": 361,
-											"width": 254.1015625,
+											"width": 198,
 											"height": 13
 										},
 										{
@@ -515,7 +515,7 @@
 											"font": "Arial;13;0",
 											"left": 797,
 											"top": 376,
-											"width": 254.1015625,
+											"width": 198,
 											"height": 13
 										},
 										{
@@ -530,7 +530,7 @@
 											"font": "Arial;13;0",
 											"left": 797,
 											"top": 391,
-											"width": 254.1015625,
+											"width": 198,
 											"height": 13
 										},
 										{
@@ -609,7 +609,7 @@
 											"font": "Arial;13;0",
 											"left": 797,
 											"top": 406,
-											"width": 254.1015625,
+											"width": 198,
 											"height": 13
 										},
 										{
@@ -624,7 +624,7 @@
 											"font": "Arial;13;0",
 											"left": 797,
 											"top": 421,
-											"width": 254.1015625,
+											"width": 198,
 											"height": 13
 										},
 										{
@@ -639,7 +639,7 @@
 											"font": "Arial;13;0",
 											"left": 797,
 											"top": 436,
-											"width": 254.1015625,
+											"width": 198,
 											"height": 13
 										},
 										{
@@ -654,7 +654,7 @@
 											"font": "Arial;13;0",
 											"left": 797,
 											"top": 451,
-											"width": 254.1015625,
+											"width": 198,
 											"height": 13
 										},
 										{
@@ -669,21 +669,21 @@
 											"font": "Arial;13;0",
 											"left": 797,
 											"top": 466,
-											"width": 254.1015625,
+											"width": 198,
 											"height": 13
 										}
 									],
 									"font": "Arial;13;0",
 									"left": 792,
 									"top": 311,
-									"width": 264.1015625,
+									"width": 208,
 									"height": 173
 								}
 							],
 							"font": "Arial;13;0",
 							"left": 792,
 							"top": 288,
-							"width": 264.1015625,
+							"width": 208,
 							"height": 196,
 							"nameLabel": {
 								"$ref": "AAAAAAGSXPiGbOXYzsc="
@@ -2026,10 +2026,9 @@
 							"_parent": {
 								"$ref": "AAAAAAGSXPiGbOXVlus="
 							},
-							"name": "permissions",
-							"type": "enum",
-							"length": 0,
-							"nullable": true
+							"name": "readonly",
+							"type": "bool",
+							"length": 0
 						},
 						{
 							"_type": "ERDColumn",

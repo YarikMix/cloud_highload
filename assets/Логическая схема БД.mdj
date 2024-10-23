@@ -2693,8 +2693,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGSYY8H5p3z3Q4="
 							},
-							"name": "permissions",
-							"type": "enum",
+							"name": "readonly",
+							"type": "bool",
 							"length": 0
 						},
 						{
