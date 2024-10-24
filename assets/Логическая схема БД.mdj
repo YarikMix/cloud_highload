@@ -332,20 +332,35 @@
 											"top": 574,
 											"width": 198,
 											"height": 13
+										},
+										{
+											"_type": "ERDColumnView",
+											"_id": "AAAAAAGSvsTCJC96shE=",
+											"_parent": {
+												"$ref": "AAAAAAGSXPhxJ+XM2VM="
+											},
+											"model": {
+												"$ref": "AAAAAAGSvsTCHi93Ys8="
+											},
+											"font": "Arial;13;0",
+											"left": 381,
+											"top": 589,
+											"width": 198,
+											"height": 13
 										}
 									],
 									"font": "Arial;13;0",
 									"left": 376,
 									"top": 479,
 									"width": 208,
-									"height": 113
+									"height": 128
 								}
 							],
 							"font": "Arial;13;0",
 							"left": 376,
 							"top": 456,
 							"width": 208,
-							"height": 136,
+							"height": 152,
 							"nameLabel": {
 								"$ref": "AAAAAAGSXPhxJ+XL34Q="
 							},
@@ -2125,9 +2140,19 @@
 							"_parent": {
 								"$ref": "AAAAAAGSXPhxJ+XIm98="
 							},
-							"name": "file_url",
+							"name": "s3_url",
 							"type": "varchar",
 							"length": "128"
+						},
+						{
+							"_type": "ERDColumn",
+							"_id": "AAAAAAGSvsTCHi93Ys8=",
+							"_parent": {
+								"$ref": "AAAAAAGSXPhxJ+XIm98="
+							},
+							"name": "is_virus",
+							"type": "bool",
+							"length": 0
 						}
 					]
 				},

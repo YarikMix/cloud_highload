@@ -151,7 +151,7 @@
 							"left": 392,
 							"top": 280,
 							"width": 232,
-							"height": 112,
+							"height": 106,
 							"nameLabel": {
 								"$ref": "AAAAAAGSXNeHveWO1MA="
 							},
@@ -362,6 +362,21 @@
 										},
 										{
 											"_type": "ERDColumnView",
+											"_id": "AAAAAAGSvsXtfDQWeco=",
+											"_parent": {
+												"$ref": "AAAAAAGSXPhxJ+XM2VM="
+											},
+											"model": {
+												"$ref": "AAAAAAGSvsXtdDQTCYQ="
+											},
+											"font": "Arial;13;0",
+											"left": 453,
+											"top": 628,
+											"width": 198,
+											"height": 13
+										},
+										{
+											"_type": "ERDColumnView",
 											"_id": "AAAAAAGSkRykAt+ilks=",
 											"_parent": {
 												"$ref": "AAAAAAGSXPhxJ+XM2VM="
@@ -371,7 +386,7 @@
 											},
 											"font": "Arial;13;0",
 											"left": 453,
-											"top": 628,
+											"top": 643,
 											"width": 198,
 											"height": 13
 										},
@@ -386,7 +401,7 @@
 											},
 											"font": "Arial;13;0",
 											"left": 453,
-											"top": 643,
+											"top": 658,
 											"width": 198,
 											"height": 13
 										}
@@ -395,14 +410,14 @@
 									"left": 448,
 									"top": 503,
 									"width": 208,
-									"height": 158
+									"height": 173
 								}
 							],
 							"font": "Arial;13;0",
 							"left": 448,
 							"top": 480,
 							"width": 208,
-							"height": 184,
+							"height": 196,
 							"nameLabel": {
 								"$ref": "AAAAAAGSXPhxJ+XL34Q="
 							},
@@ -872,7 +887,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 366,
-									"top": 465,
+									"top": 461,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -889,7 +904,7 @@
 									},
 									"font": "Arial;13;0",
 									"left": 366,
-									"top": 392,
+									"top": 384,
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 30,
@@ -923,7 +938,7 @@
 								"$ref": "AAAAAAGSXNeHveWNtB8="
 							},
 							"lineStyle": 2,
-							"points": "392:384;352:384;352:560;448:560",
+							"points": "392:376;352:376;352:560;448:560",
 							"nameLabel": {
 								"$ref": "AAAAAAGSXQT2YeZqt+o="
 							},
@@ -1054,7 +1069,7 @@
 							"tail": {
 								"$ref": "AAAAAAGSYbsLRJ9UlCA="
 							},
-							"points": "600:712;600:664"
+							"points": "600:712;600:676"
 						},
 						{
 							"_type": "RectangleView",
@@ -1680,6 +1695,16 @@
 								"$ref": "AAAAAAGSXPhxJ+XIm98="
 							},
 							"name": "editable",
+							"type": "bool",
+							"length": 0
+						},
+						{
+							"_type": "ERDColumn",
+							"_id": "AAAAAAGSvsXtdDQTCYQ=",
+							"_parent": {
+								"$ref": "AAAAAAGSXPhxJ+XIm98="
+							},
+							"name": "is_virus",
 							"type": "bool",
 							"length": 0
 						},
