@@ -1655,6 +1655,21 @@
 										},
 										{
 											"_type": "ERDColumnView",
+											"_id": "AAAAAAGTDHhqhZQKEWg=",
+											"_parent": {
+												"$ref": "AAAAAAGSkBy/t9cLCbw="
+											},
+											"model": {
+												"$ref": "AAAAAAGTDHhqepQHyNs="
+											},
+											"font": "Arial;13;0",
+											"left": 53,
+											"top": 322,
+											"width": 182,
+											"height": 13
+										},
+										{
+											"_type": "ERDColumnView",
 											"_id": "AAAAAAGSkB0kedco/KU=",
 											"_parent": {
 												"$ref": "AAAAAAGSkBy/t9cLCbw="
@@ -1664,7 +1679,7 @@
 											},
 											"font": "Arial;13;0",
 											"left": 53,
-											"top": 322,
+											"top": 337,
 											"width": 182,
 											"height": 13
 										}
@@ -1673,14 +1688,14 @@
 									"left": 48,
 									"top": 287,
 									"width": 192,
-									"height": 53
+									"height": 68
 								}
 							],
 							"font": "Arial;13;0",
 							"left": 48,
 							"top": 264,
 							"width": 192,
-							"height": 80,
+							"height": 91,
 							"nameLabel": {
 								"$ref": "AAAAAAGSkBy/t9cKwPs="
 							},
@@ -2934,6 +2949,16 @@
 							"type": "uuid",
 							"length": 0,
 							"foreignKey": true
+						},
+						{
+							"_type": "ERDColumn",
+							"_id": "AAAAAAGTDHhqepQHyNs=",
+							"_parent": {
+								"$ref": "AAAAAAGSkBy/t9cHlHo="
+							},
+							"name": "value",
+							"type": "varchar",
+							"length": "128"
 						},
 						{
 							"_type": "ERDColumn",
