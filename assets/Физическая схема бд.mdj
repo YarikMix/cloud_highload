@@ -29,7 +29,7 @@
 							"left": 360,
 							"top": 496,
 							"width": 296,
-							"height": 264
+							"height": 240
 						},
 						{
 							"_type": "RectangleView",
@@ -393,6 +393,7 @@
 											"model": {
 												"$ref": "AAAAAAGSvsXtdDQTCYQ="
 											},
+											"visible": false,
 											"font": "Arial;13;0",
 											"left": 413,
 											"top": 692,
@@ -410,7 +411,7 @@
 											},
 											"font": "Arial;13;0",
 											"left": 413,
-											"top": 707,
+											"top": 692,
 											"width": 198,
 											"height": 13
 										},
@@ -425,7 +426,7 @@
 											},
 											"font": "Arial;13;0",
 											"left": 413,
-											"top": 722,
+											"top": 707,
 											"width": 198,
 											"height": 13
 										}
@@ -434,14 +435,14 @@
 									"left": 408,
 									"top": 567,
 									"width": 208,
-									"height": 173
+									"height": 158
 								}
 							],
 							"font": "Arial;13;0",
 							"left": 408,
 							"top": 544,
 							"width": 208,
-							"height": 196,
+							"height": 181,
 							"nameLabel": {
 								"$ref": "AAAAAAGSXPhxJ+XL34Q="
 							},

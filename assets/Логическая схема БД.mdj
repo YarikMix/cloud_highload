@@ -342,6 +342,7 @@
 											"model": {
 												"$ref": "AAAAAAGSvsTCHi93Ys8="
 											},
+											"visible": false,
 											"font": "Arial;13;0",
 											"left": 381,
 											"top": 589,
@@ -353,14 +354,14 @@
 									"left": 376,
 									"top": 479,
 									"width": 208,
-									"height": 128
+									"height": 113
 								}
 							],
 							"font": "Arial;13;0",
 							"left": 376,
 							"top": 456,
 							"width": 208,
-							"height": 152,
+							"height": 136,
 							"nameLabel": {
 								"$ref": "AAAAAAGSXPhxJ+XL34Q="
 							},
