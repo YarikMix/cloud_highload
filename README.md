@@ -389,10 +389,10 @@ cloud.imgsmail.ru — Сервис доставки медиа-контента.
 * email: B-tree
 
 Таблица file
-* file_id
-* parent
-* created
-* public_url
+* file_id: hash
+* parent: hash
+* created: B-tree
+* public_url: B-tree
 
 Таблица folder
 * folder_id: vertex
