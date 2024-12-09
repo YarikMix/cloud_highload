@@ -597,8 +597,8 @@ ClickHouse функционирует как база данных **OLAP**, с�
 |------------|----------|------------------------------------------------|-------|-------|---------|--------------------|
 | Kube node  | own      | 2U/2xAMD EPYC 7302P/2x32GB/1xNVMe1T/2x10Gb/s   | 2x16  | 34    | $7 000  | $600               |
 | Redis      | own      | 1U/1xAMD EPYC 7302P/1x32GB/1xNVMe256G/2x10Gb/s | 1x16  | 17    | $5 000  | $500               |
-| Tarantool  | own      | 1U/1xAMD EPYC 7302P/1x32GB/1xNVMe256G/2x10Gb/s | 2x32  | 25    | $5 000  | $500               |
-| Neo4j      | own      | 1U/1xAMD EPYC 7302P/1x32GB/1xNVMe256G/2x10Gb/s | 2x16  | 25    | $10 000 | $500               |
+| Tarantool  | own      | 2U/1xAMD EPYC 7302P/1x32GB/1xNVMe256G/2x10Gb/s | 2x32  | 25    | $5 000  | $500               |
+| Neo4j      | own      | 2U/1xAMD EPYC 7302P/1x32GB/1xNVMe256G/2x10Gb/s | 2x16  | 25    | $10 000 | $500               |
 | Mongo      | own      | 2U/2xAMD EPYC 7302P/2x32GB/4xNVMe16T/2x25Gb/s  | 2x32  | 40    | $15 000 | $1300              |
 | ClickHouse | own      | 2U/2xAMD EPYC 7513/2x32GB/1xNVMe1T/2x25Gb/s    | 2x32  | 17    | $14 000 | $1200              |
 | Nginx      | own      | 1U/1xAMD EPYC 7513/2x32GB/1xNVMe256G/2x25Gb/s  | 1x32  | 34    | $11 000 | $1000              |
